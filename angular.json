@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "pie-chart"
+    }
+  },
+  "defaultProject": "pie-chart",
+  "cli": {
+    "analytics": "27e5b495-2cd0-4e2e-8432-ff48c8288872"
+  }
 }
